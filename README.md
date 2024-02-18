@@ -1,0 +1,2 @@
+# februaryuiappformaven-project
+mvn
